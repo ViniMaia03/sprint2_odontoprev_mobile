@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730186287198",
+    "project_id": "sprint2-mobile-b0975",
+    "storage_bucket": "sprint2-mobile-b0975.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730186287198:android:b2cdb80c6277480ab90ccf",
+        "android_client_info": {
+          "package_name": "com.example.sprint2_odontoprev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7o1QLf2Uwtwxia3wuhp3UDHk9k1gm3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
